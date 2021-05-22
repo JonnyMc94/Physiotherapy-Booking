@@ -25,3 +25,6 @@ yarn-error.log*
 # database
 .env
 database.txt
+
+# comments
+COMMENTS_READ.txt
