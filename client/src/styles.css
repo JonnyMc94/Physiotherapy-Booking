@@ -1,0 +1,66 @@
+.form{
+  margin: auto;
+}
+
+.productForm {
+  margin-top: 100px;
+}
+
+.form-button {
+  margin: 20px;
+}
+
+.form-element {
+  margin-top: 20px;
+}
+
+.homepage-button {
+  margin: 40px;
+  width: 15rem;
+  height: 3.25rem;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.button-text {
+  padding-top: 10px;
+   font-size: 1.5rem;
+}
+
+.col-sm {
+  background: #97b8a7;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  border-radius: 8px;
+  margin: 100px;
+  height: 40rem
+}
+
+.first-row{
+  margin-top: 50px!important;
+}
+
+.date-time-tag {
+  margin-top: 36px;
+}
+
+.clientRender {
+  margin-right: 100px!important;
+}
+
+.clientRenderRow {
+  display: flex!important;
+  flex-wrap: wrap!important;
+  margin-bottom: 100px!important;
+}
+
+.child {
+  flex: 1 0 21%!important; /* explanation below */
+  margin: 10px!important;
+  height: 100px!important;
+  
+}
+

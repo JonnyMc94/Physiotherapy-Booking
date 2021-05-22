@@ -1,0 +1,15 @@
+// This app was developed in VsCode using the MERN stack
+// It was tested in the latest version of Google Chrome 
+// All CRUD operations have been achieved bar Delete, I ran out of time 
+
+// Use npm install to install the various packages
+// cd into client folder and use the command npm start to run the index.js file and see the React app in action. npm install will be required in this directory also
+
+// I designed the database using 3 models - Clients, Physios and Sessions.
+// Clients contains all the required information for a client.
+// Physio contains all the required information for a physio.
+// Sessions holds the required information for each session along with the physio id and client id associated with the session
+// I was able to use the Mongoose populate method when querying the session to fill the information for each physio and client into the response
+
+// Name: Jonathan McNamee
+// Student Number: 12460842
